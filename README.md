@@ -40,8 +40,8 @@ Clone the repository into your home directory:
 
 ```bash
 cd ~
-git clone https://github.com/SivinSaji/lightweight-clipboard-manager.git
-cd lightweight-clipboard-manager
+git clone https://github.com/SivinSaji/Ubuntu-Clipboard-Manager.git
+cd Ubuntu-Clipboard-Manager
 ```
 
 Make the clipboard manager executable:
