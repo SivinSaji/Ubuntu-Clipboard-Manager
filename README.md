@@ -1,0 +1,1 @@
+# Ubuntu-Clipboard-Manager
