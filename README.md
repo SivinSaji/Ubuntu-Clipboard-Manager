@@ -40,7 +40,7 @@ Clone the repository into your home directory:
 
 ```bash
 cd ~
-git clone https://github.com/YOUR_USERNAME/lightweight-clipboard-manager.git
+git clone https://github.com/SivinSaji/lightweight-clipboard-manager.git
 cd lightweight-clipboard-manager
 ```
 
